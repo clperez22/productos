@@ -1,0 +1,75 @@
+.img img{
+    width: 25rem;
+    height: 25rem;
+    margin: 1rem 2rem 0 5rem;
+}
+.ptos{
+    display:flex;
+    flex-direction:row;
+    padding: 0 0 0 15rem;
+}
+.pto1{
+    width: 1rem;
+    height: 1rem;
+    background-color: gray;
+    border-radius: 50rem;
+    margin: 1rem 0 0 1rem;
+    display:flex;
+    flex-direction: column;
+}
+.pto2{
+    width: 1rem;
+    height: 1rem;
+    background-color: rgb(190, 184, 184);
+    border-radius: 50rem;
+    margin: 1rem 0 0 1rem;
+    display:flex;
+    flex-direction: column;
+}
+.pto3{
+    width: 1rem;
+    height: 1rem;
+    background-color: rgb(190, 184, 184);
+    border-radius: 50rem;
+    margin: 1rem 0 0 1rem;
+    display:flex;
+    flex-direction: column;
+}
+.titulo h1{
+    font-size: 2rem;
+    margin: 1rem 0 0 2rem;
+}
+.by h1{
+    font-size: 2rem;
+    margin: 1rem 0 0 2rem;
+    color:  rgb(190, 184, 184);
+}
+.botonesd{
+    margin: 1rem 1rem 1rem 2rem;
+    width: 37.5rem;
+}
+.botonlll3{
+    margin: 2rem 0 0 2rem;
+}
+.botonlll1{
+    margin: 1rem 0 0 0;
+}
+.descripcion2 h1{
+    font-size: 1.5rem;
+    margin: 1rem 5rem 0 0;
+}
+.descripcion3 h1{
+    font-size: 1.5rem;
+    margin: 1rem 0 0 0;
+}
+footer{
+    width: 10rem;
+    height: 2rem;
+}
+.menu1{
+    width: 15rem;
+    height: 0.5rem;
+    background-color: black;
+    margin: 1rem 3rem 2rem 11rem;
+    border-radius: 2rem;
+}

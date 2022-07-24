@@ -1,0 +1,273 @@
+html{
+    margin: 0 0 0 0;
+
+}
+header{
+    width: 37.5rem;
+    height: 6rem;
+    margin: 0 2rem 0 0;
+    background-color:rgb(209, 202, 202);
+}
+.explore h1{
+    color: gray;
+    margin: 0 0 0 15rem;
+}
+.explore h2{
+    color: gray;
+    width: 10rem;
+    font-size: 1.5rem;
+    margin: 0 0 0 28rem; 
+}
+.uno{
+    width: 37.5rem;
+    height: 14rem;
+    background-color: rgb(221, 217, 217);
+}
+.imagen1{
+    width: 15rem;
+    height: 10rem;
+    margin: 0rem 0 0 3rem;
+    display: flex;
+    flex-direction: row;
+}
+.unotext h1{
+    margin: 0.5rem 0 0 2rem;
+    width: 20rem;
+    height: 2rem;
+}
+.by{
+    color: rgb(136, 130, 130);
+    margin: 0 0 0 0;
+    width: 100rem;
+    height: 10rem;
+}
+.boton{
+    width: 5rem;
+    height: 2rem;
+    margin: 0.5rem 0 0 2rem;
+}
+.imcoment1{
+    display: flex;
+    flex-direction: row;
+    width: 26.5rem;
+    height: 5rem;
+    border-bottom: 0.2rem solid black ;
+}
+.imcoment1 img{
+    width: 2rem;
+    height: 2rem;
+    margin: 0.5rem 0 0 2rem;
+    font-size: 2rem;
+}
+.co1{
+    color: black;
+    font-size: 1.5rem;
+    margin: 0 0 0 25rem;
+    display: flex;
+    flex-direction: column;  
+}
+/**********************************************/
+.dos{
+    width: 37.5rem;
+    height: 14rem;
+    background-color: rgb(221, 217, 217);
+}
+.imagen2{
+    width: 15rem;
+    height: 10rem;
+    margin: 0 0 0 3rem;
+    display: flex;
+    flex-direction: row;
+}
+.dostext h1{
+    margin: 0 0 0 2rem;
+    width: 20rem;
+    height: 2rem;
+}
+.by2{
+    color: rgb(136, 130, 130);
+    margin: 0.5rem 0 0 0;
+    width: 100rem;
+    height: 10rem;
+}
+.botonl2 {
+    width: 6rem;
+    height: 2rem;
+    margin: 0.5rem 0 0 2rem;
+}
+.botonl3 {
+    width: 6rem;
+    height: 2rem;
+    margin: 0.5rem 0 0 0;
+}
+.imcoment2{
+    display: flex;
+    flex-direction: row;
+    width: 26.5rem;
+    height: 5rem;
+    border-bottom: 0.2rem solid black ;
+}
+.imcoment2 img{
+    width: 2rem;
+    height: 2rem;
+    margin: 1rem 0 0 2rem;
+}
+.imcoment2 h1{
+    color: black;
+    font-size: 1.5rem;
+    margin: 1rem 0 0 2rem;
+    display: flex;
+    flex-direction: column;
+}
+/******************************************/
+.tres{
+    width: 37.5rem;
+    height: 14rem;
+    background-color: rgb(221, 217, 217);
+}
+.imagen3{
+    width: 15rem;
+    height: 10rem;
+    margin: 0 0 0 3rem;
+    display: flex;
+    flex-direction: row;
+}
+.trestext h1{
+    margin: 0 0 0 2rem;
+    width: 20rem;
+    height: 2rem;
+}
+.by3{
+    color: rgb(136, 130, 130);
+    margin: 0.5rem 0 0 0;
+    width: 100rem;
+    height: 10rem;
+}
+.botonll3{
+    width: 6rem;
+    height: 2rem;
+    margin: 0.5rem 0 0 2rem;
+}
+.botonll1{
+    width: 6rem;
+    height: 2rem;
+    margin: 0.5rem 0 0 0;
+}
+.imcoment3{
+    display: flex;
+    flex-direction: row;
+    width: 26.5rem;
+    height: 5rem;
+    border-bottom: 0.2rem solid black ;
+}
+.imcoment3 img{
+    width: 2rem;
+    height: 2rem;
+    margin: 1rem 0 0 2rem;
+}
+.imcoment3 h1{
+    color: black;
+    font-size: 1.5rem;
+    margin: 1rem 0 0 2rem;
+    display: flex;
+    flex-direction: column;
+}
+/******************************************/
+.cuatro{
+    width: 37.5rem;
+    height: 14rem;
+    background-color: rgb(221, 217, 217);
+}
+.imagen4{
+    width: 15rem;
+    height: 10rem;
+    margin: 0 0 0 3rem;
+    display: flex;
+    flex-direction: row;
+}
+.cuatrotext h1{
+    margin: 0 0 0 2rem;
+    width: 20rem;
+    height: 2rem;
+}
+.by4{
+    color: rgb(136, 130, 130);
+    margin: 0.5rem 0 0 0;
+    width: 100rem;
+    height: 10rem;
+}
+.botonlll3{
+    width: 6rem;
+    height: 2rem;
+    margin: 0.5rem 0 0 2rem;
+}
+.botonlll1{
+    width: 6rem;
+    height: 2rem;
+    margin: 0.5rem 0 0 0;
+}
+.imcoment4{
+    display: flex;
+    flex-direction: row;
+    width: 26.5rem;
+    height: 5rem;
+    border-bottom: 0.2rem solid black ;
+}
+.imcoment4 img{
+    width: 2rem;
+    height: 2rem;
+    margin: 1rem 0 0 2rem;
+}
+.imcoment4 h1{
+    color: black;
+    font-size: 1.5rem;
+    margin: 1rem 0 0 2rem;
+    display: flex;
+    flex-direction: column;
+}
+/******************************************/
+.menu{
+    background-color: rgb(255, 243, 220);
+    display:flex;
+    flex-direction:row;
+    width: 37.5rem;
+    height: 5rem;
+    /*position:fixed;*/
+    z-index: 2000;
+    bottom: 0;
+}
+.id1{
+    width: 3rem;
+    height: 3rem;
+    margin: 1rem 2rem 2rem 2rem;
+    display:flex;
+    flex-direction: column;
+}
+.id2{
+    width: 3rem;
+    height: 3rem;
+    margin: 1rem 0 2rem 3rem;
+    display:flex;
+    flex-direction: column;
+}
+.id3{
+    width: 3rem;
+    height: 3rem;
+    margin: 1rem 0 2rem 5rem;
+    display:flex;
+    flex-direction: column;
+}
+.id4{
+    width: 3rem;
+    height: 3rem;
+    margin: 1rem 0 2rem 5rem;
+    display:flex;
+    flex-direction: column;
+}
+.id5{
+    width: 3rem;
+    height: 3rem;
+    margin: 1rem 0 2rem 5rem;
+    display:flex;
+    flex-direction: column;
+}
